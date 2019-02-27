@@ -1,0 +1,204 @@
+button{
+    
+    width:30%;
+}
+
+.part2{
+    padding:100px;
+}
+
+h2{
+       text-align: center;
+}
+.hp__hotel-type-badge {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 18px;
+    vertical-align: middle;
+    margin-top: -5px;
+    padding: 0 4px;
+    border-radius: 3px;
+    background: #aeaeae;
+    color: #fff;
+    text-align: center;
+}
+.show_map_icon {
+    display: inline-block;
+    width: 15px;
+    height: 23px;
+    margin-right: 0;
+    background: url(//r-ec.bstatic.com/static/img/map/cta_material/map_cta_pin_small_sprite/282fe35….png) no-repeat;
+    margin-top: -2px;
+    background-size: 15px 46px;
+    background-position: 0 0;
+    vertical-align: middle;
+}
+.name{
+    display:flex;
+}
+.card-text{
+    
+    color:rgb(129, 122, 122);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.logop{
+    padding: 7px;
+}
+.info-p{
+    color: grey;
+}
+.wifi {
+    background: #0ab21b;
+    border-radius: 3px;
+    padding: 5px;
+    
+}
+.wi-fi{
+    padding-top: 30px;
+}
+.btn-primary{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.geo{
+    margin-top: 20px;
+
+}
+.zen{
+margin:50px;
+}
+.card{
+    background-color: #A9D0F5;
+}
+.adress{
+    font-size: 12px;
+    color: gray;
+}
+.salle-fete{
+    padding-top: 30px;
+    color:rgb(33, 29, 37);
+    font-size: 110%;
+    font-style:italic;
+text-align: center;
+}
+.contact{
+    background-image: url("bg.jpg")   
+}
+footer{
+    color: white;
+}
+.formulaire{
+    display: flex;
+    justify-content: center;
+}
+#submit{
+    margin-top:20px;
+    
+}
+.anim{
+    background-image:url('anim4.gif');
+}
+
+.center{
+    padding:20px;
+}
+.tofs{
+    padding-bottom: 100px;
+}
+.article{
+    text-align: center;
+}
+.paragraphe{
+    padding:100px;
+
+}
+.part{
+    padding:100px;
+    text-align:center;
+}
+h3{
+    color:rgba(6, 59, 52, 0.692) 
+}
+
+.equipement{
+    padding-bottom:100px; 
+}
+.title{
+    padding-bottom: 30px;
+}
+.titre1{
+    text-align: center;
+    padding: 100px;
+    
+}
+.price{
+    display:flex;
+    justify-content:center;
+    padding: 100px;
+    font-style: italic;
+}
+.offre{
+    padding:50px; 
+}
+
+.reservation{
+    color:grey;
+}
+footer{
+    padding:50px;
+}
+select{
+    width:40%;
+}
+.periode{
+    padding:50px;
+}
+.party{
+    background-image:url("bgg.jpg") 
+}
+#submit2{
+    margin-top:20px;
+    width:100%;
+}
+
+ #programme{
+    padding: 50px;
+    text-align:center;
+}
+.prog-title{
+    padding-bottom: 50px;
+} 
+.prog-paragraphe{
+text-align: left;
+}
+
+.bleu{
+    color:rgb(11, 149, 190);
+}
+.jaune{
+    color:rgb(255, 172, 49);
+}
+.rouge{
+    color:rgb(228, 57, 27);
+}
+.salle-de-fete{
+    padding-top:50px;
+    padding-bottom:1px;
+}
+.pos{
+    padding:5px;
+    padding-top: 40px;
+}
+.color{
+    color: grey;
+    padding: 50px;
+}
+.my-title{
+    color:rgba(6, 59, 52, 0.692) 
+}
+#msg{
+    padding:20px;
+}
